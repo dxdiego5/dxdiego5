@@ -20,8 +20,11 @@
 <img align="center" alt="ts" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" alt="ts" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
+
 <br/>
-## Tecnologias mais usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxdiego5&langs_count=8)](https://github.com/dxdiego5/github-readme-stats)
+
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxdiego5&langs_count=8)](https://github.com/dxdiego5/github-readme-stats)
-## Atualmente - Studante em Data Science - GRODEV
+
+## Atualmente - Studante em Data Science - GRODEV/2022
