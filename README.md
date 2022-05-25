@@ -1,6 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxdiego5&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxdiego5&layout=compact)](https://github.com/dxdiego5/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxdiego5&langs_count=8)](https://github.com/dxdiego5/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
