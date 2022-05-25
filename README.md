@@ -1,6 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxdiego5&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxdiego5&langs_count=8)](https://github.com/dxdiego5/github-readme-stats)
-
+<div styled="display: incline_block">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxdiego5&show_icons=true)
+</div>
+  
 ## Tecnologias que eu uso no meu dia
 
 <div styled="display: incline_block"><br/>
@@ -19,4 +20,12 @@
 <img align="center" alt="ts" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="ts" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" alt="ts" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</div
+</div>
+<br/>
+## Tecnologias mais usadas
+<br/>
+<div styled="display: incline_block">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxdiego5&langs_count=8)](https://github.com/dxdiego5/github-readme-stats) 
+</div>
+
+## Atualmente - Studante em Data Science - GRODEV
