@@ -26,5 +26,5 @@
 
 <br/>
 
-## Atualmente - Studante em Data Science - GRODEV/2022
+## Atualmente - Studante em Data Science - GROWDEV/2022
 #### - Contato - dxdiegofelipe@hotmail.com | (66) 99688-2190
